@@ -9,7 +9,7 @@ package com.home.study.service;
 public class HuiWenTest {
 
 	public static void main(String[] args) {
-		isPalindrome(1221);
+		System.out.println(isPalindrome(1221));
 	}
 	
 	 public static boolean isPalindrome(int x) {
